@@ -6,7 +6,7 @@ public class demo {
 	@Test
 	public void shouldAnswerWithTrue()
     {
-        
+        System.out.println("hello");
         System.out.println("huhdsuhdsu");
     }
 	 
